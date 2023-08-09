@@ -1,4 +1,4 @@
-const webhooks = ["https://discord.com/api/webhooks/1138833606878445618/nsqo7fM1ELWmKJ8l0tA-iG0JyXtGW2jaj3hO_l5Fu7nFORXf0xL3YCuMDdcnleR9LdL5"];
+const webhooks = [""];
  
 const title = "", avatarImage = "", shortDescription = "", colour = "#f5a4a0", type = "";
 mention = ""
